@@ -1,0 +1,13 @@
+{
+  "item.examplemod.structuregel": "Structure Gel",
+  "block.examplemod.castlewall": "Castle Wall",
+  "entity.examplemod.zombo": "Zombo",
+  "item.examplemod.zombo_egg": "Zombo Spawn Egg",
+  "enchantment.examplemod.wither_touch": "Wither Touch Enchantment",
+  "enchantment.examplemod.healing_touch": "Healing Touch Enchantment",
+  "itemGroup.examplemod": "Example Mods",
+  "block.examplemod.remotedetonation": "Remote Detonation Block",
+  "item.examplemod.remotedetonator": "Remote Detonator",
+  "block.examplemod.pigironblock": "Pig Iron Block",
+  "item.examplemod.pigiron": "Pig Iron Ore"
+}
